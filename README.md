@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Personal Voice Assistant 🎙️🤖
 
 A lightweight, local Python-based personal voice assistant that interacts using speech recognition and text-to-speech engine capabilities. It can fetch weather reports, launch news updates, keep track of time, and dynamically manage a custom local reminders list.
@@ -48,3 +49,7 @@ Plaintext
 ├── assistant.py          # Main execution application script
 ├── reminders.txt         # Auto-generated text file storing your log of tasks
 └── README.md             # Project documentation
+=======
+# Voice-Assistant
+A Python-powered offline/online local voice assistant featuring weather tracking, smart dynamic reminders, and web automation.
+>>>>>>> 80a00b0abffdccb4cec6ddbd62e745f42a68087e
